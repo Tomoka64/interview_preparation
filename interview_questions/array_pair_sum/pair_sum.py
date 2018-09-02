@@ -1,5 +1,6 @@
 from nose.tools import assert_equal
 
+# my answer 
 def my_pair_sum(list, target):
     if len(list) < 2:
         return 
