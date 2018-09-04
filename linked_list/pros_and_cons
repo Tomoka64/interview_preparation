@@ -1,0 +1,12 @@
+pros and cons of using linked list as an array
+
+[pros]
+- Linked List has constant-time insertion and deletion in any position. In comparison, 
+array requires O(n) time to do the same thing.
+- Linked list can continue to expand without having to specify their size ahead of time
+
+[cons]
+- to access an element in a linked list, you need to take O(n) time to go from the head 
+of the list to the kth element. In contrast, arrays have constant operation to access an element.
+
+
