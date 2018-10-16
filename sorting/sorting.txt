@@ -1,0 +1,9 @@
+- bubble sort
+- selection sort
+- insertion sort
+- shell sort
+- merge sort
+- quick sort
+
+https://www.toptal.com/developers/sorting-algorithms
+https://visualgo.net/en

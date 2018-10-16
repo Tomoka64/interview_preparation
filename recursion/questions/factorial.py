@@ -6,7 +6,7 @@ def factorial(n):
 
 def rec_sum(n):
     if n == 0:
-        return 1
+        return 0
     else:
         return n + rec_sum(n - 1)
 
@@ -28,3 +28,4 @@ def word_split(phrase,list_of_words, output = None):
 
 print(word_split('ilovedogsJohn',['i','am','a','dogs','lover','love','John']))
 print(word_split('themanran',['clown','ran','man']))
+print(sum_func(4322))

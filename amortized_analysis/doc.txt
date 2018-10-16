@@ -1,0 +1,6 @@
+amortized analysis
+
+1. Allocate memory for a larger array of size, typically twice the old array
+2. Copy the contents of old array to new array
+3. Free the old array
+
